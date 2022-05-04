@@ -1,0 +1,34 @@
+_repo: Ireland-The-People-s-History-of-Ireland-Volume-1-of-2_67845
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Finerty, John F. (John Frederick)
+    aliases:
+    - Finerty, Mr. (John Frederick)
+    - Finerty, John Frederick
+    birthdate: 1846
+    deathdate: 1908
+    gutenberg_agent_id: '54489'
+    url: http://www.gutenberg.org/2009/agents/54489
+    wikipedia: https://en.wikipedia.org/wiki/John_F._Finerty
+description: ''
+gutenberg_issued: '2022-04-15'
+identifiers:
+  gutenberg: '67845'
+language: en
+pgterms:marc905: 20181008204014finerty
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: D A Alexander, Barry Abrahamsen, Natrona County Library, Casper,
+  Wyoming and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: United States :The Cooperative Publication Society,1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: World's Best Histories
+subjects:
+- !lcc 'DA'
+- !lcsh 'Ireland -- History'
+- GITenberg
+title: 'Ireland: The People''s History of Ireland, Volume 1 (of 2)'
+url: http://www.gutenberg.org/ebooks/67845
